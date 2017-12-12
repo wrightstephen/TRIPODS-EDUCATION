@@ -26,7 +26,7 @@ The main subdirectories are:
 
 - SLIDES
 
-   Contains slide presentations of material realted to data science
+   Contains slide presentations of material related to data science
    fundamentals. These can be slides used in classes or summer schools
    or boocamps, or review talks.
 
