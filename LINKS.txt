@@ -1,0 +1,18 @@
+
+WEB SITES RELEVANT TO FUNDAMENTALS OF DATA SCIENCE
+==================================================
+
+
+---
+
+neos-server.org
+
+NEOS Server - online solution of optimization problems of many types,
+using commercial and free software (established at Argonne Natl Lab in
+1994; now hosted at Univ. Wisconsin-Madison).  Includes the NEOS
+Guide, an information resource about optimization formulations and
+algorithms.
+
+---
+
+
