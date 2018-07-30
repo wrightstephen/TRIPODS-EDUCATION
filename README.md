@@ -49,10 +49,6 @@ include author names and topics.
 
 The main files are:
 
-CONTENTS.txt - please edit when you place material in the site to name
-the files / subdirectories you have added, together with an indication
-of their contents.
-
 LINKS.txt - Links to sites (course web pages etc) that contains
 relevant material. Ask author permission as needed before using such
 material.
