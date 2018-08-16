@@ -1,0 +1,6 @@
+
+Web page of the summer school on "Fundamentals of Data Analysis,"
+which contains schedule and links to videos, is at
+
+https://ifds.wisc.edu/workshops/fundamentals/
+
