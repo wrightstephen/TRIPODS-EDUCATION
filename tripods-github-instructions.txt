@@ -1,0 +1,61 @@
+
+TRIPODS-EDUCATION github INSTRUCTIONS: VIEWING AND MODIFYING THE REPOSITORY
+
+SJW 7/18/18.
+
+VIEWING. A github repository called wrightstephen/TRIPODS-EDUCATION
+has been created to share educational materials that can be used in
+"fundamental data science" courses - summer schools, university
+courses, short courses, etc. These include slides, videos, review
+papers, chapters from texts, and so on.
+
+You can see and download this repository without registering at
+github, by going to https://github.com/wrightstephen/TRIPODS-EDUCATION
+
+On the home page of the repository, you'll see a short statement
+describing the policies for the site, and some notes on how it is
+structured.
+
+To pull a local copy of the repository to your machine (assuming that
+git is installed on your machine), proceed as follows: Go to a
+terminal window on your computer, go into a fresh directory, and type
+
+git clone https://github.com/wrightstephen/TRIPODS-EDUCATION.git
+
+This produces the following output on my terminal:
+
+Cloning into 'TRIPODS-EDUCATION'...
+remote: Counting objects: 23, done.
+remote: Total 23 (delta 0), reused 0 (delta 0), pack-reused 23
+Unpacking objects: 100% (23/23), done.
+
+it has created a new directory called "TRIPODS-EDUCATION". You can
+navigate into this directory to see the various materials that have
+been posted. (Currently it contains some slides and papers that I
+posted in Dec 2017.)
+
+CONTRIBUTING AND MODIFYING. To contribute materials, or otherwise
+change the contents of the repository, you'll need some familiarity
+with basic git commands, and you'll need to register at github.com and
+send me your github username.
+
+Basic commands for handling git repositories include:
+
+clone, pull, commit, add, push
+
+You can find out more about these by googling terms, such as "git
+clone", "git commit". A basic tutorial can be found on the github home
+page at github.com.
+
+You can register for a free account at github.com. You'll create a
+username and password and choose an email address by which to
+register.
+
+To be added as a "collaborator" to the repository, send your username
+and registered email to me: swright@cs.wisc.edu
+
+I will add you as a contributor to the repository and notify you.
+
+Go to github and log on. You should see the repository listed as one
+of yours.
+
