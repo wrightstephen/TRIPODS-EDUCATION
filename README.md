@@ -34,7 +34,7 @@ The main subdirectories are:
 
    Review papers or class notes.
 
-- VIDEOS
+- VIDEO
 
   Videos of talks or demos.
 
