@@ -15,4 +15,19 @@ algorithms.
 
 ---
 
+OSU Course: 
+Computational Topology and Data Analysis (Spring 2017, Tamal Dey) 
+http://web.cse.ohio-state.edu/~dey.8/course/CTDA/CTDA.html
+
+OSU Course:
+Computational Topology: Theory, Algorithms, and Applications to Data Analysis (Fall 2018, Yusu Wang)
+http://web.cse.ohio-state.edu/~wang.1016/courses/5559/
+
+OSU Course:
+Applied Algebraic Topology (Spring 2018, Facundo Memoli)
+https://research.math.osu.edu/tgda/courses/math-4570/
+
+
+
+
 
