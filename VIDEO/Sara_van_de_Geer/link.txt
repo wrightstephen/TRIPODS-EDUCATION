@@ -1,0 +1,8 @@
+Prof. Sara van de Geer (ETH, Zurich) gave a set of 3 exciting lectures
+on high-dimensional statistics, starting Friday, August 31, 2018.  
+
+The title of her lecture series is: Sparsity, oracles and inference in
+high-dimensional statistics.
+
+The videos of her lectures can be found at
+http://triad.gatech.edu/presentations.
