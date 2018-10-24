@@ -27,7 +27,17 @@ OSU Course:
 Applied Algebraic Topology (Spring 2018, Facundo Memoli)
 https://research.math.osu.edu/tgda/courses/math-4570/
 
+---
 
+U of Arizona
+
+The webpage for the Statistics and Data Science major at Arizona is
+
+http://math.arizona.edu/academics/undergrads/requirements/SDS
+
+The course taught by  Joe Watkins is here:
+
+http://math.arizona.edu/~jwatkins/data363f18.html
 
 
 
